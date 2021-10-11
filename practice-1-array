@@ -1,0 +1,18 @@
+// search in rotated array 
+
+// ex arr=[ 3 4 5 1 2]
+            0 1 2 3 4
+
+#include <iostream>
+using namespace std ;
+
+int binarySearch(int arr[], int n , key ) {
+    int s=0;
+    int e= n-1;
+     
+
+     while(s<=e){
+         if(mid)
+
+     }
+} 
