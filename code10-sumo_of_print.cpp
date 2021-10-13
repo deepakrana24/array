@@ -21,7 +21,8 @@ int printLargest(int arr[], int n)
 
 int main()
 {
-    int arr[] = {-2, 3, 4, -1, 5, -12, 6, 1, 3};
+    // int arr[] = {-2, 3, 4, -1, 5, -12, 6, 1, 3};
+    int arr[] = {1, -2, 3, 4, 4, -2};
     int n = sizeof(arr) / sizeof(int);
     cout << printLargest(arr, n) << endl;
     return 0;
